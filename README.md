@@ -8,4 +8,4 @@ Second step is deciding on thresholds on 1 Hr Normal Ride to define normal vs ab
 
 Third step is running thresholds on available labelled data and defining normal vs abnormal behaviour for each incident.
 
-Last step is using predictive modelling on IOT data (raw data) to identify abnormal behaviour  based on two independent variable time and Amag/Gmag. In same step, rough rider score calculation is embedded on file. 
+Last step is using predictive modelling on IOT data (raw data) to identify abnormal behaviour  based on two independent variable time and Amag/Gmag. Following the incident identification, rough rider score is calculated for the rider.
